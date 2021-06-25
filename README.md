@@ -1,1 +1,3 @@
-#Hi
+Home: true 
+heroImage: 
+footer: Testing
