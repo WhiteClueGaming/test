@@ -1,3 +1,5 @@
-Home: true 
+---
+home: true 
 heroImage: 
 footer: Testing
+---
